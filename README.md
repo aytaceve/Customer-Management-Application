@@ -1,4 +1,4 @@
-# Customer-Management-Application
+# Customer vs Sellers
 
 Live application:
 https://customersvssellers.herokuapp.com/
