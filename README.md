@@ -1,4 +1,9 @@
-# Customer vs Sellers
+# Customer Management Application
+It is a CRM  project which you can sell, and get track of the products.
 
-Live application:
-https://customersvssellers.herokuapp.com/
+# To Do List
+* ...
+
+# What I Learned
+
+* ...
